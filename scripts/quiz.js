@@ -3,13 +3,13 @@ const submitBtn = document.querySelector('#submit-answers-btn');
 const outputEl = document.querySelector('.output');
 
 const correctAnswers = [
-  '90°',
+  '3',
   'right angled',
   'one right angle',
-  '12, 16, 20',
+  '180',
   'Equilateral triangle',
   '100°',
-  '30°',
+  '36',
   'a + b + c',
   'no',
   '45°',
